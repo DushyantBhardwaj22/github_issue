@@ -1,0 +1,37 @@
+
+#result{
+   margin-top: 60px;
+    margin-left: 500px;
+}
+
+
+
+ 
+h1 {
+    display: flex;
+    justify-content: center;
+    margin: inherit;
+    background-color: blueviolet;
+    color: aliceblue;
+}
+.background{
+    background-color: blanchedalmond;
+    
+}
+ol{
+    margin-top: 50px;
+    margin-bottom: auto;
+    margin-left: 600px;
+}
+button{
+    color: brown;
+    font-size: 30px;
+    padding: 12px;
+    margin: 45px;
+    
+}
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    font-size: large;
+}
